@@ -1,4 +1,4 @@
-## Oiii eu sou a Pedro Olyntho, estudante de Ciência da Computação na Puc minas!
+## Oiie eu sou o Pedro Olyntho, estudante de Ciência da Computação na Puc minas!
 <div align="center">
   <a href="https://github.com/pedroolynth0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroolynth0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
