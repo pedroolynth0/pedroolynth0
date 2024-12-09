@@ -5,12 +5,12 @@
 ---
 
 <div align="center">
-  <img src=".github/workflows/img.gif" width="600" alt="GIF">
+  <img src=".github/workflows/olyntho.gif" width="1080" alt="GIF">
 </div>
 
 ---
 
-## 🚀 Tecnologias que domino:
+## 🚀 Tecnologias:
 <div style="display: flex; justify-content: center; align-items: center;">
   <img align="center" alt="Swift" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
